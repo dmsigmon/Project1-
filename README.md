@@ -1,4 +1,4 @@
-# Projects-
+# Project1
 
 This is a collection of projects done in advanced programming Fall 2019.
 
